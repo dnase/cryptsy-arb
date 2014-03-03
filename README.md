@@ -23,3 +23,5 @@ chmod +x cmd.py
 Default max percentage to spend on a buy order is 99%.
 
 This script will not make sell orders, only buy orders.
+
+USE AT YOUR OWN RISK. SEE GPL.txt FOR LICENSE TERMS.
