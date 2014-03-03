@@ -25,3 +25,7 @@ Default max percentage to spend on a buy order is 99%.
 This script will not make sell orders, only buy orders.
 
 USE AT YOUR OWN RISK. SEE GPL.txt FOR LICENSE TERMS.
+
+I am happy to receive your donations! 
+
+DT9U2LmozyHMT3XCNxj85jQqxWSf6CSKur
