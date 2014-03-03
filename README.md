@@ -28,4 +28,8 @@ USE AT YOUR OWN RISK. SEE GPL.txt FOR LICENSE TERMS.
 
 I am happy to receive your donations! 
 
+DOGE:
 DT9U2LmozyHMT3XCNxj85jQqxWSf6CSKur
+
+BTC:
+1PJTKx1N7yssPNo1URsQt9AsL3KPcTSnN7
